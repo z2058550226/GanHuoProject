@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">library</string>
+
+    <string name="no_network">当前无网络连接</string>
+    <string name="bye_burger_bottom_behavior">com.suikajy.library.behavior.byeburgernavigationview.ByeBurgerBottomBehavior</string>
+    <string name="bye_burger_title_behavior">com.suikajy.library.behavior.byeburgernavigationview.ByeBurgerTitleBehavior</string>
+
+</resources>
