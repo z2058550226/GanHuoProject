@@ -4,6 +4,9 @@ import android.app.Application;
 import android.os.Environment;
 
 import java.io.File;
+import java.lang.reflect.Method;
+
+import retrofit2.Retrofit;
 
 /**
  * Created by suikajy on 2017/1/14.

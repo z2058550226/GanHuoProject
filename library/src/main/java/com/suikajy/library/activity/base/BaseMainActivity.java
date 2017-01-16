@@ -7,6 +7,7 @@ import com.suikajy.library.utils.ToastUtils;
 
 /**
  * Created by suikajy on 2017/1/14.
+ *
  */
 
 public abstract class BaseMainActivity extends BaseActivity {
