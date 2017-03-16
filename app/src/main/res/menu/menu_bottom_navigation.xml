@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_home"
+        android:checked="true"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/main_home"/>
+    <item
+        android:id="@+id/item_reading"
+        android:icon="@drawable/ic_reading_black_24dp"
+        android:title="@string/main_reading" />
+
+    <item
+        android:id="@+id/item_collect"
+        android:icon="@drawable/ic_collect_black_24dp"
+        android:title="@string/main_mine" />
+
+</menu>

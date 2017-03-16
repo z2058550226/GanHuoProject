@@ -71,7 +71,7 @@ public class StatusViewLayout extends FrameLayout {
         showLoading();
     }
 
-    private void showLoading() {
+    public void showLoading() {
         for (int i = 0; i < getChildCount(); i++) {
             getChildAt(i).setVisibility(View.GONE);
         }
